@@ -25,8 +25,10 @@ Word Sense Disambiguation](https://aclanthology.org/2018.gwc-1.30/))
 
 6. Future Expectations
 
-  (1) cleaning and reviewing data manually 
-  (2) extending dataset size 
-  (3) application on WSD fine-grained task: named entity (exploiting features of Wikipedia) 
+     (1) cleaning and reviewing data manually 
+  
+     (2) extending dataset size 
+  
+     (3) application on WSD fine-grained task: named entity (exploiting features of Wikipedia) 
 
 Check [doc](doc) for more details.
