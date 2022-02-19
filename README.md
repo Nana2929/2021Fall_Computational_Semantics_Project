@@ -18,8 +18,8 @@ Word Sense Disambiguation](https://aclanthology.org/2018.gwc-1.30/))
 5. Result 
 
    (1) tfidf
-    * Train: Test = 1:1, Total TestSize = 28,517 // No randomization
-    *  Total CAcc: 46.6% // Coarse-grained Accuracy
+    *  Train: Test = 1:1, Total TestSize = 28,517 // No randomization
+    *  Total Accuracy: 46.6% // Coarse-grained Accuracy
 
    (2) Lesk++ 
     * Train: Test = 7:3, Total TestSize = 8,576 // with randomization
