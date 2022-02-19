@@ -15,3 +15,5 @@ Word Sense Disambiguation](https://aclanthology.org/2018.gwc-1.30/))
 (2) Lesk++ 
 * Train: Test = 7:3, Total TestSize = 8,576 // with randomization
 * Total Accuracy: 59.34 %  // Coarse-grained Accuracy
+
+Check [doc](doc) for more details.
