@@ -1,0 +1,60 @@
+
+* index: 0
+
+* test sentence: 
+批 林 批孔 運動 文化革命 期間 中國 共產黨 中央 委員會 主席 毛澤東 提 贊成 秦始皇 贊成 孔夫子
+* label: main_孔夫子
+
+* prediction: main_孔夫子
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	批孔	運動	文化革命	期間	中國	共產黨	中央	委員會	主席	毛澤東	贊成	秦始皇	
+
+main_孔夫子             	0.0039	0.0	0.0	0.0	0.0031	0.0008	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 1
+
+* test sentence: 
+電影 年版 孔夫子 唐槐秋 飾演 孔子
+* label: main_孔夫子
+
+* prediction: main_孔夫子
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	電影	年版	唐槐秋	飾演	孔子	
+
+main_孔夫子             	0.0956	0.0	0.0	0.0	0.0	0.0956	
+
+
+* index: 0
+
+* test sentence: 
+批 林 批孔 運動 文化革命 期間 中國 共產黨 中央 委員會 主席 毛澤東 提 贊成 秦始皇 贊成 孔夫子
+* label: main_孔夫子
+
+* prediction: main_孔夫子
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	批孔	運動	文化革命	期間	中國	共產黨	中央	委員會	主席	毛澤東	贊成	秦始皇	
+
+main_孔夫子             	0.0039	0.0	0.0	0.0	0.0031	0.0008	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 1
+
+* test sentence: 
+電影 年版 孔夫子 唐槐秋 飾演 孔子
+* label: main_孔夫子
+
+* prediction: main_孔夫子
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	電影	年版	唐槐秋	飾演	孔子	
+
+main_孔夫子             	0.0956	0.0	0.0	0.0	0.0	0.0956	
+

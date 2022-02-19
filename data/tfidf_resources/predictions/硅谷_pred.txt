@@ -1,0 +1,92 @@
+* index: 1* test sentence: 
+著名 公司 千 高科技 公司 總部 設 硅谷 福布斯 排名 前 名 中 外 著名 公司 總部 設立 硅谷 包括 倒閉 兼併 著名 學 斯坦福 學 StanfordUniversity 聖塔克拉拉 學 Santa Clara University 聖荷西 州立 學 San Jose State University 卡基梅隆 學 硅谷 校區 Carnegie Mellon UniversitySilicon Valley 帕默 脊骨 神 醫學院 西 校區 Palmer CollegeofChiropractic , West 學 位 硅谷 助 作 研究 資源 新 畢業生 源 柏克萊 加州 學 Universityof California , Berkeley 戴維斯 加州 學 Universityof California , Davis 聖塔克魯斯 加州 學 Universityof California , SantaCruz 加州 州立 學 東灣 分校 California State University , EastBay 原 黑沃 州立 學 California State University , Hayward 姊妹 園區 三角 研究 園 中關村 中板 路 張江 高科技 園區 海 紫竹 高新 技術 產業 開發區 深圳 科技 園 武漢 東湖 新 技術 產業 開發區 新竹 科學 工業 園區 南部 科學 工業 園區 中部 科學 工業 園區 新北 產業 園區 湖 科學園區 崁頂 工業 園區 數 碼 港 科學園 M 走廊 班加羅 希斯塔 硅林 外部 鏈接 HowSiliconValleyCameto BePDF KiB 加州 硅谷 歷史 頁面 存檔 備份 存 互聯網 檔案館 SiliconValley forbeginningof asaPDFfilePDF TheSilicon ValleyCulturesProject* label: main_硅谷* prediction: main_硅谷* tfidf matrix: 0.19929 0.00433 0.03899 0.01733 0.00000 0.00000 0.00000 0.00433 0.00000 0.00000 0.00000 0.01733 0.00000 0.00000 0.00866 0.00866 0.00000 0.00433 0.00000 0.00433 0.00433 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00433 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.01300 0.00000 0.00000 0.00000 0.00866 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.01300 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00433 0.00000 0.00000 0.00000 0.01300 0.00000 0.00000 0.00000 0.00000 0.01733 0.00433 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00433 0.00000 0.00000 0.00000 0.00000 0.00000 0.00433 0.00000 0.00000 0.00000 0.00000
+
+* index: 0
+
+* test sentence: 
+公司 開始 走 坡路 終 消聲匿跡 然 仙童 僱員 創建 公司 硅谷 全 美國 超 百 家
+* label: main_硅谷
+
+* prediction: main_硅谷
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	公司	開始	坡路	消聲匿跡	仙童	僱員	創建	美國	
+
+main_硅谷              	0.0693	0.039	0.0087	0.0	0.0	0.0	0.0	0.0	0.0217	
+
+
+* index: 1
+
+* test sentence: 
+著名 公司 千 高科技 公司 總部 設 硅谷 福布斯 排名 前 名 中 外 著名 公司 總部 設立 硅谷 包括 倒閉 兼併 著名 學 斯坦福 學 StanfordUniversity 聖塔克拉拉 學 Santa Clara University 聖荷西 州立 學 San Jose State University 卡基梅隆 學 硅谷 校區 Carnegie Mellon UniversitySilicon Valley 帕默 脊骨 神 醫學院 西 校區 Palmer CollegeofChiropractic , West 學 位 硅谷 助 作 研究 資源 新 畢業生 源 柏克萊 加州 學 Universityof California , Berkeley 戴維斯 加州 學 Universityof California , Davis 聖塔克魯斯 加州 學 Universityof California , SantaCruz 加州 州立 學 東灣 分校 California State University , EastBay 原 黑沃 州立 學 California State University , Hayward 姊妹 園區 三角 研究 園 中關村 中板 路 張江 高科技 園區 海 紫竹 高新 技術 產業 開發區 深圳 科技 園 武漢 東湖 新 技術 產業 開發區 新竹 科學 工業 園區 南部 科學 工業 園區 中部 科學 工業 園區 新北 產業 園區 湖 科學園區 崁頂 工業 園區 數 碼 港 科學園 M 走廊 班加羅 希斯塔 硅林 外部 鏈接 HowSiliconValleyCameto BePDF KiB 加州 硅谷 歷史 頁面 存檔 備份 存 互聯網 檔案館 SiliconValley forbeginningof asaPDFfilePDF TheSilicon ValleyCulturesProject
+* label: main_硅谷
+
+* prediction: main_硅谷
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	著名	公司	高科技	總部	福布斯	排名	設立	包括	倒閉	兼併	斯坦福	StanfordUniversity	聖塔克拉拉	Santa	Clara	University	聖荷西	州立	San	Jose	State	卡基梅隆	校區	Carnegie	Mellon	UniversitySilicon	Valley	帕默	脊骨	醫學院	Palmer	CollegeofChiropractic	West	研究	資源	畢業生	柏克萊	加州	Universityof	California	Berkeley	戴維斯	Davis	聖塔克魯斯	SantaCruz	東灣	分校	EastBay	黑沃	Hayward	姊妹	園區	三角	中關村	中板	張江	紫竹	高新	技術	產業	開發區	深圳	科技	武漢	東湖	新竹	科學	工業	南部	中部	新北	科學園區	崁頂	科學園	走廊	班加羅	希斯塔	硅林	外部	鏈接	HowSiliconValleyCameto	BePDF	KiB	歷史	頁面	存檔	備份	互聯網	檔案館	SiliconValley	forbeginningof	asaPDFfilePDF	TheSilicon	ValleyCulturesProject	
+
+main_硅谷              	0.1993	0.0043	0.039	0.0173	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0173	0.0	0.0	0.0087	0.0087	0.0	0.0043	0.0	0.0043	0.0043	0.0	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0	0.0	0.0	0.013	0.0	0.0	0.0	0.0087	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.013	0.0	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.013	0.0	0.0	0.0	0.0	0.0173	0.0043	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0	
+
+
+* index: 0
+
+* test sentence: 
+公司 開始 走 坡路 終 消聲匿跡 然 仙童 僱員 創建 公司 硅谷 全 美國 超 百 家
+* label: main_硅谷
+
+* prediction: main_硅谷
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	公司	開始	坡路	消聲匿跡	仙童	僱員	創建	美國	
+
+main_硅谷              	0.0693	0.039	0.0087	0.0	0.0	0.0	0.0	0.0	0.0217	
+
+
+* index: 1
+
+* test sentence: 
+著名 公司 千 高科技 公司 總部 設 硅谷 福布斯 排名 前 名 中 外 著名 公司 總部 設立 硅谷 包括 倒閉 兼併 著名 學 斯坦福 學 StanfordUniversity 聖塔克拉拉 學 Santa Clara University 聖荷西 州立 學 San Jose State University 卡基梅隆 學 硅谷 校區 Carnegie Mellon UniversitySilicon Valley 帕默 脊骨 神 醫學院 西 校區 Palmer CollegeofChiropractic , West 學 位 硅谷 助 作 研究 資源 新 畢業生 源 柏克萊 加州 學 Universityof California , Berkeley 戴維斯 加州 學 Universityof California , Davis 聖塔克魯斯 加州 學 Universityof California , SantaCruz 加州 州立 學 東灣 分校 California State University , EastBay 原 黑沃 州立 學 California State University , Hayward 姊妹 園區 三角 研究 園 中關村 中板 路 張江 高科技 園區 海 紫竹 高新 技術 產業 開發區 深圳 科技 園 武漢 東湖 新 技術 產業 開發區 新竹 科學 工業 園區 南部 科學 工業 園區 中部 科學 工業 園區 新北 產業 園區 湖 科學園區 崁頂 工業 園區 數 碼 港 科學園 M 走廊 班加羅 希斯塔 硅林 外部 鏈接 HowSiliconValleyCameto BePDF KiB 加州 硅谷 歷史 頁面 存檔 備份 存 互聯網 檔案館 SiliconValley forbeginningof asaPDFfilePDF TheSilicon ValleyCulturesProject
+* label: main_硅谷
+
+* prediction: main_硅谷
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	著名	公司	高科技	總部	福布斯	排名	設立	包括	倒閉	兼併	斯坦福	StanfordUniversity	聖塔克拉拉	Santa	Clara	University	聖荷西	州立	San	Jose	State	卡基梅隆	校區	Carnegie	Mellon	UniversitySilicon	Valley	帕默	脊骨	醫學院	Palmer	CollegeofChiropractic	West	研究	資源	畢業生	柏克萊	加州	Universityof	California	Berkeley	戴維斯	Davis	聖塔克魯斯	SantaCruz	東灣	分校	EastBay	黑沃	Hayward	姊妹	園區	三角	中關村	中板	張江	紫竹	高新	技術	產業	開發區	深圳	科技	武漢	東湖	新竹	科學	工業	南部	中部	新北	科學園區	崁頂	科學園	走廊	班加羅	希斯塔	硅林	外部	鏈接	HowSiliconValleyCameto	BePDF	KiB	歷史	頁面	存檔	備份	互聯網	檔案館	SiliconValley	forbeginningof	asaPDFfilePDF	TheSilicon	ValleyCulturesProject	
+
+main_硅谷              	0.1993	0.0043	0.039	0.0173	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0173	0.0	0.0	0.0087	0.0087	0.0	0.0043	0.0	0.0043	0.0043	0.0	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0	0.0	0.0	0.013	0.0	0.0	0.0	0.0087	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.013	0.0	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.013	0.0	0.0	0.0	0.0	0.0173	0.0043	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0	
+
+
+* index: 0
+
+* test sentence: 
+公司 開始 走 坡路 終 消聲匿跡 然 仙童 僱員 創建 公司 硅谷 全 美國 超 百 家
+* label: main_硅谷
+
+* prediction: main_硅谷
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	公司	開始	坡路	消聲匿跡	仙童	僱員	創建	美國	
+
+main_硅谷              	0.0693	0.039	0.0087	0.0	0.0	0.0	0.0	0.0	0.0217	
+
+
+* index: 1
+
+* test sentence: 
+著名 公司 千 高科技 公司 總部 設 硅谷 福布斯 排名 前 名 中 外 著名 公司 總部 設立 硅谷 包括 倒閉 兼併 著名 學 斯坦福 學 StanfordUniversity 聖塔克拉拉 學 Santa Clara University 聖荷西 州立 學 San Jose State University 卡基梅隆 學 硅谷 校區 Carnegie Mellon UniversitySilicon Valley 帕默 脊骨 神 醫學院 西 校區 Palmer CollegeofChiropractic , West 學 位 硅谷 助 作 研究 資源 新 畢業生 源 柏克萊 加州 學 Universityof California , Berkeley 戴維斯 加州 學 Universityof California , Davis 聖塔克魯斯 加州 學 Universityof California , SantaCruz 加州 州立 學 東灣 分校 California State University , EastBay 原 黑沃 州立 學 California State University , Hayward 姊妹 園區 三角 研究 園 中關村 中板 路 張江 高科技 園區 海 紫竹 高新 技術 產業 開發區 深圳 科技 園 武漢 東湖 新 技術 產業 開發區 新竹 科學 工業 園區 南部 科學 工業 園區 中部 科學 工業 園區 新北 產業 園區 湖 科學園區 崁頂 工業 園區 數 碼 港 科學園 M 走廊 班加羅 希斯塔 硅林 外部 鏈接 HowSiliconValleyCameto BePDF KiB 加州 硅谷 歷史 頁面 存檔 備份 存 互聯網 檔案館 SiliconValley forbeginningof asaPDFfilePDF TheSilicon ValleyCulturesProject
+* label: main_硅谷
+
+* prediction: main_硅谷
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	著名	公司	高科技	總部	福布斯	排名	設立	包括	倒閉	兼併	斯坦福	StanfordUniversity	聖塔克拉拉	Santa	Clara	University	聖荷西	州立	San	Jose	State	卡基梅隆	校區	Carnegie	Mellon	UniversitySilicon	Valley	帕默	脊骨	醫學院	Palmer	CollegeofChiropractic	West	研究	資源	畢業生	柏克萊	加州	Universityof	California	Berkeley	戴維斯	Davis	聖塔克魯斯	SantaCruz	東灣	分校	EastBay	黑沃	Hayward	姊妹	園區	三角	中關村	中板	張江	紫竹	高新	技術	產業	開發區	深圳	科技	武漢	東湖	新竹	科學	工業	南部	中部	新北	科學園區	崁頂	科學園	走廊	班加羅	希斯塔	硅林	外部	鏈接	HowSiliconValleyCameto	BePDF	KiB	歷史	頁面	存檔	備份	互聯網	檔案館	SiliconValley	forbeginningof	asaPDFfilePDF	TheSilicon	ValleyCulturesProject	
+
+main_硅谷              	0.1993	0.0043	0.039	0.0173	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0173	0.0	0.0	0.0087	0.0087	0.0	0.0043	0.0	0.0043	0.0043	0.0	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0	0.0	0.0	0.013	0.0	0.0	0.0	0.0087	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.013	0.0	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.013	0.0	0.0	0.0	0.0	0.0173	0.0043	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0	0.0	0.0043	0.0	0.0	0.0	0.0	
+

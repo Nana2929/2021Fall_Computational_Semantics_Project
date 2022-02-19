@@ -1,0 +1,476 @@
+
+* index: 0
+
+* test sentence: 
+水 黃油 / 澄清 黃油 / 液體 黃油 普通 黃油 加熱 蒸發 水分 撇 漂浮物 摒棄 沉澱物
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	澄清	液體	普通	加熱	蒸發	水分	漂浮物	摒棄	沉澱物	
+
+main_黃油              	0.0282	0.0	0.007	0.0	0.0	0.0	0.0211	0.0	0.0	0.0	
+
+其他_黃油                	0.0282	0.0	0.007	0.0	0.0	0.0	0.0211	0.0	0.0	0.0	
+
+
+* index: 1
+
+* test sentence: 
+水 黃油 乳脂 含量 %
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	乳脂	含量	
+
+main_黃油              	0.0564	0.0493	0.007	
+
+其他_黃油                	0.0564	0.0493	0.007	
+
+
+* index: 2
+
+* test sentence: 
+醍醐 印度 種 水 黃油
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	醍醐	印度	
+
+main_黃油              	0.0	0.0	0.0	
+
+其他_黃油                	0.0	0.0	0.0	
+
+
+* index: 3
+
+* test sentence: 
+酥油 犛 牛 乳 原料 製成 黃油
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	酥油	原料	製成	
+
+main_黃油              	0.0211	0.007	0.007	0.007	
+
+其他_黃油                	0.0211	0.007	0.007	0.007	
+
+
+* index: 4
+
+* test sentence: 
+乳 清 黃油 奶酪 製作 程 中 副產品 乳清 中 分出 脂肪
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	奶酪	製作	副產品	乳清	分出	脂肪	
+
+main_黃油              	0.0564	0.0	0.0141	0.0	0.0	0.0	0.0423	
+
+其他_黃油                	0.0564	0.0	0.0141	0.0	0.0	0.0	0.0423	
+
+
+* index: 5
+
+* test sentence: 
+相 普通 黃油 乳清 黃油 脂肪 含量 略 低 % 帶 鹹味 口感 奶酪 價格 便宜
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	普通	乳清	脂肪	含量	鹹味	口感	奶酪	價格	便宜	
+
+main_黃油              	0.0493	0.0	0.0	0.0423	0.007	0.0	0.0	0.0	0.0	0.0	
+
+其他_黃油                	0.0493	0.0	0.0	0.0423	0.007	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 6
+
+* test sentence: 
+發酵 黃油 發酵 酸 奶油 製作 成 PH值
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	發酵	奶油	製作	PH值	
+
+main_黃油              	0.0987	0.007	0.0775	0.0141	0.0	
+
+其他_黃油                	0.0987	0.007	0.0775	0.0141	0.0	
+
+
+* index: 7
+
+* test sentence: 
+水 黃油 / 澄清 黃油 / 液體 黃油 普通 黃油 加熱 蒸發 水分 撇 漂浮物 摒棄 沉澱物
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	澄清	液體	普通	加熱	蒸發	水分	漂浮物	摒棄	沉澱物	
+
+main_黃油              	0.0282	0.0	0.007	0.0	0.0	0.0	0.0211	0.0	0.0	0.0	
+
+其他_黃油                	0.0282	0.0	0.007	0.0	0.0	0.0	0.0211	0.0	0.0	0.0	
+
+
+* index: 8
+
+* test sentence: 
+水 黃油 乳脂 含量 %
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	乳脂	含量	
+
+main_黃油              	0.0564	0.0493	0.007	
+
+其他_黃油                	0.0564	0.0493	0.007	
+
+
+* index: 9
+
+* test sentence: 
+醍醐 印度 種 水 黃油
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	醍醐	印度	
+
+main_黃油              	0.0	0.0	0.0	
+
+其他_黃油                	0.0	0.0	0.0	
+
+
+* index: 10
+
+* test sentence: 
+酥油 犛 牛 乳 原料 製成 黃油
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	酥油	原料	製成	
+
+main_黃油              	0.0211	0.007	0.007	0.007	
+
+其他_黃油                	0.0211	0.007	0.007	0.007	
+
+
+* index: 11
+
+* test sentence: 
+乳 清 黃油 奶酪 製作 程 中 副產品 乳清 中 分出 脂肪
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	奶酪	製作	副產品	乳清	分出	脂肪	
+
+main_黃油              	0.0564	0.0	0.0141	0.0	0.0	0.0	0.0423	
+
+其他_黃油                	0.0564	0.0	0.0141	0.0	0.0	0.0	0.0423	
+
+
+* index: 12
+
+* test sentence: 
+相 普通 黃油 乳清 黃油 脂肪 含量 略 低 % 帶 鹹味 口感 奶酪 價格 便宜
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	普通	乳清	脂肪	含量	鹹味	口感	奶酪	價格	便宜	
+
+main_黃油              	0.0493	0.0	0.0	0.0423	0.007	0.0	0.0	0.0	0.0	0.0	
+
+其他_黃油                	0.0493	0.0	0.0	0.0423	0.007	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 13
+
+* test sentence: 
+發酵 黃油 發酵 酸 奶油 製作 成 PH值
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	發酵	奶油	製作	PH值	
+
+main_黃油              	0.0987	0.007	0.0775	0.0141	0.0	
+
+其他_黃油                	0.0987	0.007	0.0775	0.0141	0.0	
+
+
+* index: 0
+
+* test sentence: 
+水 黃油 / 澄清 黃油 / 液體 黃油 普通 黃油 加熱 蒸發 水分 撇 漂浮物 摒棄 沉澱物
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	澄清	液體	普通	加熱	蒸發	水分	漂浮物	摒棄	沉澱物	
+
+main_黃油              	0.0282	0.0	0.007	0.0	0.0	0.0	0.0211	0.0	0.0	0.0	
+
+其他_黃油                	0.0282	0.0	0.007	0.0	0.0	0.0	0.0211	0.0	0.0	0.0	
+
+
+* index: 1
+
+* test sentence: 
+水 黃油 乳脂 含量 %
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	乳脂	含量	
+
+main_黃油              	0.0564	0.0493	0.007	
+
+其他_黃油                	0.0564	0.0493	0.007	
+
+
+* index: 2
+
+* test sentence: 
+醍醐 印度 種 水 黃油
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	醍醐	印度	
+
+main_黃油              	0.0	0.0	0.0	
+
+其他_黃油                	0.0	0.0	0.0	
+
+
+* index: 3
+
+* test sentence: 
+酥油 犛 牛 乳 原料 製成 黃油
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	酥油	原料	製成	
+
+main_黃油              	0.0211	0.007	0.007	0.007	
+
+其他_黃油                	0.0211	0.007	0.007	0.007	
+
+
+* index: 4
+
+* test sentence: 
+乳 清 黃油 奶酪 製作 程 中 副產品 乳清 中 分出 脂肪
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	奶酪	製作	副產品	乳清	分出	脂肪	
+
+main_黃油              	0.0564	0.0	0.0141	0.0	0.0	0.0	0.0423	
+
+其他_黃油                	0.0564	0.0	0.0141	0.0	0.0	0.0	0.0423	
+
+
+* index: 5
+
+* test sentence: 
+相 普通 黃油 乳清 黃油 脂肪 含量 略 低 % 帶 鹹味 口感 奶酪 價格 便宜
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	普通	乳清	脂肪	含量	鹹味	口感	奶酪	價格	便宜	
+
+main_黃油              	0.0493	0.0	0.0	0.0423	0.007	0.0	0.0	0.0	0.0	0.0	
+
+其他_黃油                	0.0493	0.0	0.0	0.0423	0.007	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 6
+
+* test sentence: 
+發酵 黃油 發酵 酸 奶油 製作 成 PH值
+* label: main_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	發酵	奶油	製作	PH值	
+
+main_黃油              	0.0987	0.007	0.0775	0.0141	0.0	
+
+其他_黃油                	0.0987	0.007	0.0775	0.0141	0.0	
+
+
+* index: 7
+
+* test sentence: 
+水 黃油 / 澄清 黃油 / 液體 黃油 普通 黃油 加熱 蒸發 水分 撇 漂浮物 摒棄 沉澱物
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	澄清	液體	普通	加熱	蒸發	水分	漂浮物	摒棄	沉澱物	
+
+main_黃油              	0.0282	0.0	0.007	0.0	0.0	0.0	0.0211	0.0	0.0	0.0	
+
+其他_黃油                	0.0282	0.0	0.007	0.0	0.0	0.0	0.0211	0.0	0.0	0.0	
+
+
+* index: 8
+
+* test sentence: 
+水 黃油 乳脂 含量 %
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	乳脂	含量	
+
+main_黃油              	0.0564	0.0493	0.007	
+
+其他_黃油                	0.0564	0.0493	0.007	
+
+
+* index: 9
+
+* test sentence: 
+醍醐 印度 種 水 黃油
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	醍醐	印度	
+
+main_黃油              	0.0	0.0	0.0	
+
+其他_黃油                	0.0	0.0	0.0	
+
+
+* index: 10
+
+* test sentence: 
+酥油 犛 牛 乳 原料 製成 黃油
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	酥油	原料	製成	
+
+main_黃油              	0.0211	0.007	0.007	0.007	
+
+其他_黃油                	0.0211	0.007	0.007	0.007	
+
+
+* index: 11
+
+* test sentence: 
+乳 清 黃油 奶酪 製作 程 中 副產品 乳清 中 分出 脂肪
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	奶酪	製作	副產品	乳清	分出	脂肪	
+
+main_黃油              	0.0564	0.0	0.0141	0.0	0.0	0.0	0.0423	
+
+其他_黃油                	0.0564	0.0	0.0141	0.0	0.0	0.0	0.0423	
+
+
+* index: 12
+
+* test sentence: 
+相 普通 黃油 乳清 黃油 脂肪 含量 略 低 % 帶 鹹味 口感 奶酪 價格 便宜
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	普通	乳清	脂肪	含量	鹹味	口感	奶酪	價格	便宜	
+
+main_黃油              	0.0493	0.0	0.0	0.0423	0.007	0.0	0.0	0.0	0.0	0.0	
+
+其他_黃油                	0.0493	0.0	0.0	0.0423	0.007	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 13
+
+* test sentence: 
+發酵 黃油 發酵 酸 奶油 製作 成 PH值
+* label: 其他_黃油
+
+* prediction: main_黃油
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	發酵	奶油	製作	PH值	
+
+main_黃油              	0.0987	0.007	0.0775	0.0141	0.0	
+
+其他_黃油                	0.0987	0.007	0.0775	0.0141	0.0	
+

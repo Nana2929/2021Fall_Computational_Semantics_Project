@@ -1,0 +1,136 @@
+
+* index: 0
+
+* test sentence: 
+非 零 然數 倍數
+* label: main_零
+
+* prediction: main_零
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	然數	倍數	
+
+main_零               	0.0094	0.0094	0.0	
+
+在數學中_零函數             	0.0094	0.0094	0.0	
+
+
+* index: 1
+
+* test sentence: 
+號 線 參考 源 文獻 柯利弗德·皮寇弗 ; 陳禮 翻譯 TheMathBook : From Pythagorastothe th Dimension , Milestonesinthe Historyof Mathematics[ 數學 書 ] 時報 文化 --ISBN---- 中文 繁體 引 參見 - 零 零 開始 編號 奇偶性 開頭 條目 零 開頭 條目 外部 結 倪樑康 零 形學 頁面 存檔 備份 存 互聯網 檔案館
+* label: main_零
+
+* prediction: main_零
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	參考	文獻	柯利弗德·皮寇弗	陳禮	翻譯	TheMathBook	From	Pythagorastothe	th	Dimension	Milestonesinthe	Historyof	Mathematics[	數學	時報	文化	--ISBN----	中文	繁體	參見	開始	編號	奇偶性	開頭	條目	外部	倪樑康	形學	頁面	存檔	備份	互聯網	檔案館	
+
+main_零               	0.0281	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0141	0.0	0.0	0.0	0.0	0.0	0.0	0.0047	0.0	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+在數學中_零函數             	0.0281	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0141	0.0	0.0	0.0	0.0	0.0	0.0	0.0047	0.0	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 2
+
+* test sentence: 
+非 零 然數 倍數
+* label: 在數學中_零函數
+
+* prediction: main_零
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	然數	倍數	
+
+main_零               	0.0094	0.0094	0.0	
+
+在數學中_零函數             	0.0094	0.0094	0.0	
+
+
+* index: 3
+
+* test sentence: 
+號 線 參考 源 文獻 柯利弗德·皮寇弗 ; 陳禮 翻譯 TheMathBook : From Pythagorastothe th Dimension , Milestonesinthe Historyof Mathematics[ 數學 書 ] 時報 文化 --ISBN---- 中文 繁體 引 參見 - 零 零 開始 編號 奇偶性 開頭 條目 零 開頭 條目 外部 結 倪樑康 零 形學 頁面 存檔 備份 存 互聯網 檔案館
+* label: 在數學中_零函數
+
+* prediction: main_零
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	參考	文獻	柯利弗德·皮寇弗	陳禮	翻譯	TheMathBook	From	Pythagorastothe	th	Dimension	Milestonesinthe	Historyof	Mathematics[	數學	時報	文化	--ISBN----	中文	繁體	參見	開始	編號	奇偶性	開頭	條目	外部	倪樑康	形學	頁面	存檔	備份	互聯網	檔案館	
+
+main_零               	0.0281	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0141	0.0	0.0	0.0	0.0	0.0	0.0	0.0047	0.0	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+在數學中_零函數             	0.0281	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0141	0.0	0.0	0.0	0.0	0.0	0.0	0.0047	0.0	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 0
+
+* test sentence: 
+非 零 然數 倍數
+* label: main_零
+
+* prediction: main_零
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	然數	倍數	
+
+main_零               	0.0094	0.0094	0.0	
+
+在數學中_零函數             	0.0094	0.0094	0.0	
+
+
+* index: 1
+
+* test sentence: 
+號 線 參考 源 文獻 柯利弗德·皮寇弗 ; 陳禮 翻譯 TheMathBook : From Pythagorastothe th Dimension , Milestonesinthe Historyof Mathematics[ 數學 書 ] 時報 文化 --ISBN---- 中文 繁體 引 參見 - 零 零 開始 編號 奇偶性 開頭 條目 零 開頭 條目 外部 結 倪樑康 零 形學 頁面 存檔 備份 存 互聯網 檔案館
+* label: main_零
+
+* prediction: main_零
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	參考	文獻	柯利弗德·皮寇弗	陳禮	翻譯	TheMathBook	From	Pythagorastothe	th	Dimension	Milestonesinthe	Historyof	Mathematics[	數學	時報	文化	--ISBN----	中文	繁體	參見	開始	編號	奇偶性	開頭	條目	外部	倪樑康	形學	頁面	存檔	備份	互聯網	檔案館	
+
+main_零               	0.0281	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0141	0.0	0.0	0.0	0.0	0.0	0.0	0.0047	0.0	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+在數學中_零函數             	0.0281	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0141	0.0	0.0	0.0	0.0	0.0	0.0	0.0047	0.0	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 2
+
+* test sentence: 
+非 零 然數 倍數
+* label: 在數學中_零函數
+
+* prediction: main_零
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	然數	倍數	
+
+main_零               	0.0094	0.0094	0.0	
+
+在數學中_零函數             	0.0094	0.0094	0.0	
+
+
+* index: 3
+
+* test sentence: 
+號 線 參考 源 文獻 柯利弗德·皮寇弗 ; 陳禮 翻譯 TheMathBook : From Pythagorastothe th Dimension , Milestonesinthe Historyof Mathematics[ 數學 書 ] 時報 文化 --ISBN---- 中文 繁體 引 參見 - 零 零 開始 編號 奇偶性 開頭 條目 零 開頭 條目 外部 結 倪樑康 零 形學 頁面 存檔 備份 存 互聯網 檔案館
+* label: 在數學中_零函數
+
+* prediction: main_零
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	參考	文獻	柯利弗德·皮寇弗	陳禮	翻譯	TheMathBook	From	Pythagorastothe	th	Dimension	Milestonesinthe	Historyof	Mathematics[	數學	時報	文化	--ISBN----	中文	繁體	參見	開始	編號	奇偶性	開頭	條目	外部	倪樑康	形學	頁面	存檔	備份	互聯網	檔案館	
+
+main_零               	0.0281	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0141	0.0	0.0	0.0	0.0	0.0	0.0	0.0047	0.0	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+在數學中_零函數             	0.0281	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0141	0.0	0.0	0.0	0.0	0.0	0.0	0.0047	0.0	0.0	0.0047	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+

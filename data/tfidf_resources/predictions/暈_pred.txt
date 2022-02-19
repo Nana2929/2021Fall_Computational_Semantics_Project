@@ -1,0 +1,204 @@
+
+* index: 0
+
+* test sentence: 
+攝影 暈 攝影 中 暈 光 指 意 造成 光學 效應 底片 開始 曝光 時 反射 光線 造成 捲 底片 印出 圖 中 環繞 著 發光源 反 光源 緣 成 光圈
+* label: main_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	攝影	造成	光學	效應	底片	開始	曝光	反射	光線	印出	環繞	發光源	光源	光圈	
+
+main_暈               	0.0806	0.0	0.0	0.0161	0.0	0.0	0.0	0.0	0.0645	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0806	0.0	0.0	0.0161	0.0	0.0	0.0	0.0	0.0645	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 1
+
+* test sentence: 
+現代 攝影 底片 會 覆 反 暈 光層 防止 效應 發生
+* label: main_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	現代	攝影	底片	光層	防止	效應	發生	
+
+main_暈               	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 2
+
+* test sentence: 
+參考 資料 全 域 觀天儀 捕捉 暈 現象 香港 天文臺 頁面 存檔 備份 存 互聯網 檔案館 暈 香港 太空館 九九八年 三 五 暈 香港 天文 臺 藝術 建築 索引典 暈 光 外部 結 Haloexplanationsandimagegalleries 頁面 存檔 備份 存 互聯網 檔案館 at Atmospheric Optics 頁面 存檔 備份 存 互聯網 檔案館 MeteorosAKM-Haloexplanationsandimagegalleries 頁面 存檔 備份 存 互聯網 檔案館 Haloreportsofinteresting haloobservationsaroundtheWorld 頁面 存檔 備份 存 互聯網 檔案館 Southern HemisphereHaloandotheratmosphericphenomena Haloin Chisinau Moldova photoandvideo 頁面 存檔 備份 存 互聯網 檔案館 WalterTape&JarmoMoilanen , Atmospheric HalosandtheSearchfor Anglex freee-book 頁面 存檔 備份 存 互聯網 檔案館
+* label: main_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	參考	資料	觀天儀	捕捉	現象	香港	天文臺	頁面	存檔	備份	互聯網	檔案館	太空館	九九八年	天文	藝術	建築	索引典	外部	Haloexplanationsandimagegalleries	at	Atmospheric	Optics	MeteorosAKM-Haloexplanationsandimagegalleries	Haloreportsofinteresting	haloobservationsaroundtheWorld	Southern	HemisphereHaloandotheratmosphericphenomena	Haloin	Chisinau	Moldova	photoandvideo	WalterTape&JarmoMoilanen	HalosandtheSearchfor	Anglex	freee-book	
+
+main_暈               	0.0484	0.0	0.0	0.0	0.0	0.0484	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0484	0.0	0.0	0.0	0.0	0.0484	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 3
+
+* test sentence: 
+攝影 暈 攝影 中 暈 光 指 意 造成 光學 效應 底片 開始 曝光 時 反射 光線 造成 捲 底片 印出 圖 中 環繞 著 發光源 反 光源 緣 成 光圈
+* label: 醫學_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	攝影	造成	光學	效應	底片	開始	曝光	反射	光線	印出	環繞	發光源	光源	光圈	
+
+main_暈               	0.0806	0.0	0.0	0.0161	0.0	0.0	0.0	0.0	0.0645	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0806	0.0	0.0	0.0161	0.0	0.0	0.0	0.0	0.0645	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 4
+
+* test sentence: 
+現代 攝影 底片 會 覆 反 暈 光層 防止 效應 發生
+* label: 醫學_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	現代	攝影	底片	光層	防止	效應	發生	
+
+main_暈               	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 5
+
+* test sentence: 
+參考 資料 全 域 觀天儀 捕捉 暈 現象 香港 天文臺 頁面 存檔 備份 存 互聯網 檔案館 暈 香港 太空館 九九八年 三 五 暈 香港 天文 臺 藝術 建築 索引典 暈 光 外部 結 Haloexplanationsandimagegalleries 頁面 存檔 備份 存 互聯網 檔案館 at Atmospheric Optics 頁面 存檔 備份 存 互聯網 檔案館 MeteorosAKM-Haloexplanationsandimagegalleries 頁面 存檔 備份 存 互聯網 檔案館 Haloreportsofinteresting haloobservationsaroundtheWorld 頁面 存檔 備份 存 互聯網 檔案館 Southern HemisphereHaloandotheratmosphericphenomena Haloin Chisinau Moldova photoandvideo 頁面 存檔 備份 存 互聯網 檔案館 WalterTape&JarmoMoilanen , Atmospheric HalosandtheSearchfor Anglex freee-book 頁面 存檔 備份 存 互聯網 檔案館
+* label: 醫學_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	參考	資料	觀天儀	捕捉	現象	香港	天文臺	頁面	存檔	備份	互聯網	檔案館	太空館	九九八年	天文	藝術	建築	索引典	外部	Haloexplanationsandimagegalleries	at	Atmospheric	Optics	MeteorosAKM-Haloexplanationsandimagegalleries	Haloreportsofinteresting	haloobservationsaroundtheWorld	Southern	HemisphereHaloandotheratmosphericphenomena	Haloin	Chisinau	Moldova	photoandvideo	WalterTape&JarmoMoilanen	HalosandtheSearchfor	Anglex	freee-book	
+
+main_暈               	0.0484	0.0	0.0	0.0	0.0	0.0484	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0484	0.0	0.0	0.0	0.0	0.0484	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 0
+
+* test sentence: 
+攝影 暈 攝影 中 暈 光 指 意 造成 光學 效應 底片 開始 曝光 時 反射 光線 造成 捲 底片 印出 圖 中 環繞 著 發光源 反 光源 緣 成 光圈
+* label: main_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	攝影	造成	光學	效應	底片	開始	曝光	反射	光線	印出	環繞	發光源	光源	光圈	
+
+main_暈               	0.0806	0.0	0.0	0.0161	0.0	0.0	0.0	0.0	0.0645	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0806	0.0	0.0	0.0161	0.0	0.0	0.0	0.0	0.0645	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 1
+
+* test sentence: 
+現代 攝影 底片 會 覆 反 暈 光層 防止 效應 發生
+* label: main_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	現代	攝影	底片	光層	防止	效應	發生	
+
+main_暈               	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 2
+
+* test sentence: 
+參考 資料 全 域 觀天儀 捕捉 暈 現象 香港 天文臺 頁面 存檔 備份 存 互聯網 檔案館 暈 香港 太空館 九九八年 三 五 暈 香港 天文 臺 藝術 建築 索引典 暈 光 外部 結 Haloexplanationsandimagegalleries 頁面 存檔 備份 存 互聯網 檔案館 at Atmospheric Optics 頁面 存檔 備份 存 互聯網 檔案館 MeteorosAKM-Haloexplanationsandimagegalleries 頁面 存檔 備份 存 互聯網 檔案館 Haloreportsofinteresting haloobservationsaroundtheWorld 頁面 存檔 備份 存 互聯網 檔案館 Southern HemisphereHaloandotheratmosphericphenomena Haloin Chisinau Moldova photoandvideo 頁面 存檔 備份 存 互聯網 檔案館 WalterTape&JarmoMoilanen , Atmospheric HalosandtheSearchfor Anglex freee-book 頁面 存檔 備份 存 互聯網 檔案館
+* label: main_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	參考	資料	觀天儀	捕捉	現象	香港	天文臺	頁面	存檔	備份	互聯網	檔案館	太空館	九九八年	天文	藝術	建築	索引典	外部	Haloexplanationsandimagegalleries	at	Atmospheric	Optics	MeteorosAKM-Haloexplanationsandimagegalleries	Haloreportsofinteresting	haloobservationsaroundtheWorld	Southern	HemisphereHaloandotheratmosphericphenomena	Haloin	Chisinau	Moldova	photoandvideo	WalterTape&JarmoMoilanen	HalosandtheSearchfor	Anglex	freee-book	
+
+main_暈               	0.0484	0.0	0.0	0.0	0.0	0.0484	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0484	0.0	0.0	0.0	0.0	0.0484	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 3
+
+* test sentence: 
+攝影 暈 攝影 中 暈 光 指 意 造成 光學 效應 底片 開始 曝光 時 反射 光線 造成 捲 底片 印出 圖 中 環繞 著 發光源 反 光源 緣 成 光圈
+* label: 醫學_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	攝影	造成	光學	效應	底片	開始	曝光	反射	光線	印出	環繞	發光源	光源	光圈	
+
+main_暈               	0.0806	0.0	0.0	0.0161	0.0	0.0	0.0	0.0	0.0645	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0806	0.0	0.0	0.0161	0.0	0.0	0.0	0.0	0.0645	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 4
+
+* test sentence: 
+現代 攝影 底片 會 覆 反 暈 光層 防止 效應 發生
+* label: 醫學_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	現代	攝影	底片	光層	防止	效應	發生	
+
+main_暈               	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+
+* index: 5
+
+* test sentence: 
+參考 資料 全 域 觀天儀 捕捉 暈 現象 香港 天文臺 頁面 存檔 備份 存 互聯網 檔案館 暈 香港 太空館 九九八年 三 五 暈 香港 天文 臺 藝術 建築 索引典 暈 光 外部 結 Haloexplanationsandimagegalleries 頁面 存檔 備份 存 互聯網 檔案館 at Atmospheric Optics 頁面 存檔 備份 存 互聯網 檔案館 MeteorosAKM-Haloexplanationsandimagegalleries 頁面 存檔 備份 存 互聯網 檔案館 Haloreportsofinteresting haloobservationsaroundtheWorld 頁面 存檔 備份 存 互聯網 檔案館 Southern HemisphereHaloandotheratmosphericphenomena Haloin Chisinau Moldova photoandvideo 頁面 存檔 備份 存 互聯網 檔案館 WalterTape&JarmoMoilanen , Atmospheric HalosandtheSearchfor Anglex freee-book 頁面 存檔 備份 存 互聯網 檔案館
+* label: 醫學_暈
+
+* prediction: main_暈
+
+* tfidf matrix: 
+
+                    	Tfidf_sum	參考	資料	觀天儀	捕捉	現象	香港	天文臺	頁面	存檔	備份	互聯網	檔案館	太空館	九九八年	天文	藝術	建築	索引典	外部	Haloexplanationsandimagegalleries	at	Atmospheric	Optics	MeteorosAKM-Haloexplanationsandimagegalleries	Haloreportsofinteresting	haloobservationsaroundtheWorld	Southern	HemisphereHaloandotheratmosphericphenomena	Haloin	Chisinau	Moldova	photoandvideo	WalterTape&JarmoMoilanen	HalosandtheSearchfor	Anglex	freee-book	
+
+main_暈               	0.0484	0.0	0.0	0.0	0.0	0.0484	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+醫學_暈                 	0.0484	0.0	0.0	0.0	0.0	0.0484	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+

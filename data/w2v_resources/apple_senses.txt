@@ -1,0 +1,83 @@
+[
+    {
+        "category": "main",
+        "sense": "蘋果",
+        "views": 34481,
+        "gloss": "蘋果樹（學名：Malus domestica）是薔薇科蘋果亞科蘋果屬植物，為落葉喬木，在世界上廣泛種",
+        "link": "https://zh.wikipedia.org/wiki/%E8%8B%B9%E6%9E%9C",
+        "ismain": true,
+        "senseidx": 1
+    },
+    {
+        "category": "公司",
+        "sense": "蘋果公司",
+        "views": 978087,
+        "gloss": "蘋果公司，著名電子產品生產商。蘋果園區，蘋果公司於2017年4月起啓用的公司總部新址",
+        "link": "https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8",
+        "ismain": false,
+        "senseidx": 2
+    },
+    {
+        "category": "公司",
+        "sense": "蘋果園區",
+        "views": 72457,
+        "gloss": "蘋果公司，著名電子產品生產商。蘋果園區，蘋果公司於2017年4月起啓用的公司總部新址",
+        "link": "https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E5%9C%92%E5%8D%80",
+        "ismain": false,
+        "senseidx": 3
+    },
+    {
+        "category": "公司",
+        "sense": "蘋果唱片公司",
+        "views": -1,
+        "gloss": "蘋果唱片公司（英語：Apple Corps），披頭士樂團創立的唱片公司",
+        "link": "",
+        "ismain": false,
+        "senseidx": 4
+    },
+    {
+        "category": "報紙",
+        "sense": "蘋果日報",
+        "views": 86912,
+        "gloss": "蘋果日報。蘋果日報 (香港)，香港公司壹傳媒在香港發行的報紙。蘋果日報 (臺灣)，香港公司壹傳媒在臺灣發行的報紙。蘋果日報慈善基金，香港一個慈善基金，由壹傳媒有限公司於1995年成立",
+        "link": "https://zh.wikipedia.org/wiki/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5",
+        "ismain": false,
+        "senseidx": 5
+    },
+    {
+        "category": "報紙",
+        "sense": "蘋果日報 (香港)",
+        "views": 699638,
+        "gloss": "蘋果日報。蘋果日報 (香港)，香港公司壹傳媒在香港發行的報紙。蘋果日報 (臺灣)，香港公司壹傳媒在臺灣發行的報紙。蘋果日報慈善基金，香港一個慈善基金，由壹傳媒有限公司於1995年成立",
+        "link": "https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)",
+        "ismain": false,
+        "senseidx": 6
+    },
+    {
+        "category": "報紙",
+        "sense": "蘋果日報 (臺灣)",
+        "views": 10806,
+        "gloss": "蘋果日報。蘋果日報 (香港)，香港公司壹傳媒在香港發行的報紙。蘋果日報 (臺灣)，香港公司壹傳媒在臺灣發行的報紙。蘋果日報慈善基金，香港一個慈善基金，由壹傳媒有限公司於1995年成立",
+        "link": "https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E8%87%BA%E7%81%A3)",
+        "ismain": false,
+        "senseidx": 7
+    },
+    {
+        "category": "報紙",
+        "sense": "蘋果日報慈善基金",
+        "views": 12201,
+        "gloss": "蘋果日報。蘋果日報 (香港)，香港公司壹傳媒在香港發行的報紙。蘋果日報 (臺灣)，香港公司壹傳媒在臺灣發行的報紙。蘋果日報慈善基金，香港一個慈善基金，由壹傳媒有限公司於1995年成立",
+        "link": "https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E6%85%88%E5%96%84%E5%9F%BA%E9%87%91",
+        "ismain": false,
+        "senseidx": 8
+    },
+    {
+        "category": "電影",
+        "sense": "蘋果 (電影)",
+        "views": 18680,
+        "gloss": "蘋果 (電影)，2007年上映的中國電影",
+        "link": "https://zh.wikipedia.org/wiki/%E8%8B%B9%E6%9E%9C_(%E7%94%B5%E5%BD%B1)",
+        "ismain": false,
+        "senseidx": 9
+    }
+]
