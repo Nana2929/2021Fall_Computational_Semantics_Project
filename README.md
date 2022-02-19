@@ -1,5 +1,7 @@
-# 2021Fall Computational Semantics Term Project
+# 2021 Fall: Computational Semantics Term Project
+## Chinese Wiki-Based Word Sense Disambiguation 
 1. Topic
+
     Chinese Wiki-Based Word Sense Disambiguation 
     
 3. Data
